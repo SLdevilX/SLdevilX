@@ -2,7 +2,7 @@
 
  Welcome to my world
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://visi.tk/sldevilx)
+[![Website]()](https://visi.tk/sldevilx)
 
 ## I'm a Devil 😈
 
