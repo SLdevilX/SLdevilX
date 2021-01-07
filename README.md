@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  Welcome to my world
-[![t.me/danuma01](https://github.com/saadeghi/saadeghi/blob/master/dino.gif
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif
 [![Website]()](https://visi.tk/sldevilx)
 
 ## I'm a Devil 😈
