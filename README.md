@@ -4,9 +4,10 @@
 This is temporary & do not find me
  
 ##
+
 [Web](https://visi.tk/sldevilx)
 
-## I'm a Devil 😈
+## <h1 align="center"> 😈 Devil 😈</h1>
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
