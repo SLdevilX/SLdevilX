@@ -1,11 +1,5 @@
-#
-[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
+ [![Deploy](https://telegra.ph/file/ed13199921d7ce5a3d879.mp4)](https://lasiya.ml)
 
-This is temporary & do not find me
- 
-##
-
-[Web](https://visi.tk/sldevilx)
 
 ## <h1 align="center"> 😈 Devil 😈</h1>
 
@@ -27,3 +21,10 @@ This is temporary & do not find me
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
  
 
+##
+
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLdevilX&theme=light&hide_langs_below=1" />
+</a>
+</a>
