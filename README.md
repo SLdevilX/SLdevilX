@@ -1,4 +1,4 @@
- [![Deploy](https://telegra.ph/file/ed13199921d7ce5a3d879.mp4)](https://lasiya.ml)
+
 
 
 ## <h1 align="center"> 😈 Devil 😈</h1>
