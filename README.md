@@ -3,11 +3,8 @@
 
 ## <h1 align="center"> 😈 Devil 😈</h1>
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+
+
 
 
 <!-- programming langs i work-->
@@ -21,10 +18,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
  
 
-##
+---
+ ___
+ 
 
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLdevilX&theme=light&hide_langs_below=1" />
-</a>
-</a>
+<p align="center" ><a href="https://telegra.ph/file/f55fee6c9a87b5899e38f.jpg" width="400"/>
+ </p>
