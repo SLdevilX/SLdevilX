@@ -18,10 +18,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
  
 
+
+
 ---
  ___
  
 
+<p align="center"><a href="https://t.me/danuma01"><img src="https://telegra.ph/file/f55fee6c9a87b5899e38f.jpg" width="400"></a></p>
 
-<p align="center" ><a href="https://telegra.ph/file/f55fee6c9a87b5899e38f.jpg" width="400"/>
- </p>
+
+---
+ ___
+ 
